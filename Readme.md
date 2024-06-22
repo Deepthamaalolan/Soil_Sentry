@@ -37,7 +37,15 @@ Soil Sentry is a mobile app that combines accessible sensor technology with AI t
   License
   Released under MIT.
 
+![image](https://github.com/Deepthamaalolan/Soil_Sentry/assets/46663016/c0a7c53b-cbd6-4b57-8a86-664706e036cd)
+
+![image](https://github.com/Deepthamaalolan/Soil_Sentry/assets/46663016/1315a734-7165-4965-a019-75748f6606ea)
+
+
+
 **Disclaimer**
 Soil Sentry is intended to help farmers optimize water usage and irrigation practices. It should not be used as a replacement for professional agricultural advice.
+
+
 
 
