@@ -19,14 +19,15 @@ Soil Sentry is a mobile app that combines accessible sensor technology with AI t
 # **Technological Architecture **
 
 ![image](https://github.com/Deepthamaalolan/Soil_Sentry/assets/46663016/1315a734-7165-4965-a019-75748f6606ea)
-  Frontend: React Native, React
-  Backend: Node.js, Python
-  AI: GPT-3.5 for chatbot, Salesforce Einstein for prediction models
-  Database: MongoDB
-  API: National Weather Service API
-  Data Structuring: Unstructured.io
-  Cloud Infrastructure: Salesforce
-  In-house RAG System: Leverages vector search capabilities to train our LLM model
+- Frontend: React Native, React
+- Backend: Node.js, Python
+- AI: GPT-3.5 for chatbot, Salesforce Einstein for prediction models
+- Database: MongoDB
+- Data Visualization: Tableau
+- API: National Weather Service API
+- Data Structuring: Unstructured.io
+- Cloud Infrastructure: Salesforce
+- In-house RAG System: Leverages vector search capabilities to train our LLM model
 
 # **Setup Instructions**
 (Instructions on how to run the project)
