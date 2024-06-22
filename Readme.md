@@ -39,14 +39,11 @@ Soil Sentry is a mobile app that combines accessible sensor technology with AI t
 # **Contributing**
   We welcome contributions to this project! If you have experience in AI, sensor technology, or agriculture, feel free to:
 
-  Fork the repository and create a pull request with your contributions.
-  Raise issues to report bugs or suggest improvements.
-  License
+- Fork the repository and create a pull request with your contributions.
+- Raise issues to report bugs or suggest improvements.
+
+# **License**
   Released under MIT.
-
-
-
-
 
 **Disclaimer**
 Soil Sentry is intended to help farmers optimize water usage and irrigation practices. It should not be used as a replacement for professional agricultural advice.
