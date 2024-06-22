@@ -16,9 +16,10 @@ Soil Sentry is a mobile app that combines accessible sensor technology with AI t
   7. Leak Detection: Detects potential leaks in irrigation systems, reducing water loss by sending alerts and maintenance recommendations.
   8. Water Tank Monitoring: Tracks the usage of water tanks and rain tanks separately, providing real-time data on water levels, detecting leaks, and sending alerts.
 
-# **Technological Architecture **
+# **Technological Architecture**
 
-![image](https://github.com/Deepthamaalolan/Soil_Sentry/assets/46663016/1315a734-7165-4965-a019-75748f6606ea)
+![image](https://github.com/Deepthamaalolan/Soil_Sentry/assets/46663016/f55d033c-4850-429e-8adf-54d6d50bd1d2)
+
 - Frontend: React Native, React
 - Backend: Node.js, Python
 - AI: GPT-3.5 for chatbot, Salesforce Einstein for prediction models
