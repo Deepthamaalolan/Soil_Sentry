@@ -28,12 +28,13 @@ Soil Sentry is a mobile app that combines accessible sensor technology with AI t
   Cloud Infrastructure: Salesforce
   In-house RAG System: Leverages vector search capabilities to train our LLM model
 
-**Setup Instructions**
+# **Setup Instructions**
 (Instructions on how to run the project)
   1. Start by running the backend server. Open a terminal, navigate to the Backend directory, and run python weather.py.
   2. In another terminal, go to the Client directory and execute npm start. This will launch a chatbot for you to interact with.
+  3. Do add your OpenAI API key into the .env file 
 
-**Contributing**
+# **Contributing**
   We welcome contributions to this project! If you have experience in AI, sensor technology, or agriculture, feel free to:
 
   Fork the repository and create a pull request with your contributions.
